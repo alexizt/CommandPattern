@@ -14,7 +14,7 @@ namespace CommandPattern
             Console.WriteLine(lamp.Description());
             remote.ClickOff();
             Console.WriteLine(lamp.Description());
-            Console.WriteLine("Press anykey to exit...");
+            Console.WriteLine("Press any key to exit...");
             Console.ReadKey(true);
         }
     }

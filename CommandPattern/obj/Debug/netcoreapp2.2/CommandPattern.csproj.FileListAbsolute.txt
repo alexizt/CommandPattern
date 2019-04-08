@@ -8,3 +8,4 @@ C:\Users\alexi\source\repos\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.
 C:\Users\alexi\source\repos\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.AssemblyInfo.cs
 C:\Users\alexi\source\repos\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.dll
 C:\Users\alexi\source\repos\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.pdb
+C:\Users\alexi\source\repos\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.2\CommandPattern.csprojAssemblyReference.cache
